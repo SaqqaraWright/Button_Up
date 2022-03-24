@@ -1,0 +1,28 @@
+/*#main{
+    padding: 15px;
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+}*/
+#button-1{
+    background-color: gainsboro;
+    color: aquamarine;
+    border-color: aquamarine;
+    border-style: solid;
+    border-radius: 25%;
+    margin-bottom: 10px;
+    }
+#button-2{
+background-color: turquoise;
+color: white;
+border-radius: 50%;
+margin-bottom: 10px;
+}
+#button-3{
+    color: lightblue;
+    border-color: black;
+    background-color: blue;
+    box-shadow: 5px 5px 5px black;
+    font-size: medium;
+    border-style: solid;
+}
